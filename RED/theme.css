@@ -368,15 +368,15 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 /* 2.2.2 Logos */
 /* Login Page */
 .imgLogoIcon {
-  content: url(https://cdn.jsdelivr.net/gh/ZyFinity/Emby-Dark-Themes-Resources@master/images/logos-and-icons/RED/c54ecbddc10cca237004f3e7b4e033ab.png) !important; }
+  content: url(https://cdn.jsdelivr.net/gh/ZyFinity/Emby-Dark-Themes-Resources@master/images/logos-and-icons/RED/logonew.png) !important; }
 
 /* Main Drawer Mobile */
 .adminDrawerLogo img {
-  content: url(https://cdn.jsdelivr.net/gh/ZyFinity/Emby-Dark-Themes-Resources@master/images/logos-and-icons/RED/c54ecbddc10cca237004f3e7b4e033ab.png) !important; }
+  content: url(https://cdn.jsdelivr.net/gh/ZyFinity/Emby-Dark-Themes-Resources@master/images/logos-and-icons/RED/logonew.png) !important; }
 
 /* Home Page */
 .pageTitleWithLogo {
-  background-image: url(https://cdn.jsdelivr.net/gh/ZyFinity/Emby-Dark-Themes-Resources@master/images/logos-and-icons/RED/c54ecbddc10cca237004f3e7b4e033ab.png) !important; }
+  background-image: url(https://cdn.jsdelivr.net/gh/ZyFinity/Emby-Dark-Themes-Resources@master/images/logos-and-icons/RED/logonew.png) !important; }
 
 /* 2.2.3 Others	*/
 /* CSS Box */
